@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://img.freepik.com/premium-photo/white-watercolor-papar-texture-background-cover-card-design-overlay-aon-paint-art-background_1962-2191.jpg?w=996);
+}
+h1{
+   text-align: center;
+   border-bottom: 10em black;
+   font-style:normal;
+   font-family: 'Ysabeau SC', sans-serif;
+
+   box-shadow: 2px 5px 3px black;
+   }
+   
+   img{
+    width:30%;
+     height:30%;
+   }
+   .images{
+    display: flex;
+    justify-content:center;
+    flex-wrap:wrap;
+   }
+   
+    img{
+      margin: 3%; 
+      transition: all 1s;
+      
+    }
+    img:hover{
+      transform: scale(1.1) ;
+    }
+    .back{
+      margin-left: 10%;
+    }
+   
+  
+   
+   

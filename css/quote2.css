@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Ysabeau+SC:wght@200&display=swap');
+
+body{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f95309c5-3ec5-42ba-8334-5d8c364d1b78/df1sqrs-fef12ccf-8b3d-4bf5-8cea-b24a9de485b6.jpg/v1/fill/w_1280,h_782,q_75,strp/sadhana___gokula_temple_by_atarts_df1sqrs-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzgyIiwicGF0aCI6IlwvZlwvZjk1MzA5YzUtM2VjNS00MmJhLTgzMzQtNWQ4YzM2NGQxYjc4XC9kZjFzcXJzLWZlZjEyY2NmLThiM2QtNGJmNS04Y2VhLWIyNGE5ZGU0ODViNi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.VQyRQ1DhsYvCubazQ1MUoHOSJGtPVZyevfwQH6KoBf4);
+    background-size: cover;
+}
+.heading{
+    font-size: 160%;
+    font-family: 'Cormorant Garamond', serif;
+
+
+}
+.quote1{
+    text-align: center;
+    margin-top: 8%;
+    font-size: 140%;
+    cursor: pointer;
+    box-shadow: gray 0px 0px 50px;
+    border-radius: 50px;
+    border: 1.5px  #808080;
+    border-style:hidden;
+    width: 40%;
+    margin-left: 30%;
+    padding: 1%;
+    color: #0f172a;
+    text-shadow: #cbd5e1 2px 0.5px ;
+    
+}
+.quote1eng{
+    text-align: center;
+    font-size:130%;
+    font-family: 'Cormorant Garamond', serif;
+    color: #cbd5e1;
+    -webkit-text-stroke: #0f172a;
+    
+    /* font-family: 'Comfortaa', cursive; */
+    font-weight: 500;
+    cursor: pointer;
+    line-height: 130%;
+ 
+    
+}
+.meaningheading{
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 120%;
+    font-style:normal;
+    color:#d97706;
+    text-shadow: black 1px 0.5px;
+
+}
+
+.heading{
+    text-align: center;
+    font-size: 150%;
+    font-style:normal;
+    text-decoration: underline;
+    color:#d97706;
+    text-shadow: black 1px 1px;
+    font-style: italic;
+}
+
+#quotemeaning{
+    text-align: center;
+    font-size: 130%;
+    font-style: italic;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(10px);
+    border-width: 1px;
+    
+    border :1px solid rgba(255,255,255,0.18);
+border-radius: 80px;
+   
+}
+#quotemeaning:hover{
+    box-shadow: 0 8px 32px 0;
+
+}
+#wordingmeaning{
+    font-size:100%;
+    font-weight: bold;
+    color: white;
+    
+
+}
+
+a{
+    
+  margin-left: 46%;
+  font-size:100%;
+    
+}

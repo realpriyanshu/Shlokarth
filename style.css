@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Teko:wght@500&display=swap');
+
+
+/* body{
+     background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae0b7c44-11d7-4fd8-941c-7e709b9b649b/de3xch5-90757128-ee7a-46c8-a0da-9158f8a8f3a0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FlMGI3YzQ0LTExZDctNGZkOC05NDFjLTdlNzA5YjliNjQ5YlwvZGUzeGNoNS05MDc1NzEyOC1lZTdhLTQ2YzgtYTBkYS05MTU4ZjhhOGYzYTAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-0rg0F7wZUI5cNBlngnL9B8U96nXYCHGV6Z82NeHu7g);
+     /* (
+        https://img.freepik.com/free-photo/white-parchment-paper_53876-92954.jpg?w=996&t=st=1693737024~exp=1693737624~hmac=b2b4306999e1aa192103aea95445e8b46626ba54758dc398113864e72b21a484 
+       );  
+    background-size:contain;
+
+} */
+html { 
+    background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae0b7c44-11d7-4fd8-941c-7e709b9b649b/de3xch5-90757128-ee7a-46c8-a0da-9158f8a8f3a0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FlMGI3YzQ0LTExZDctNGZkOC05NDFjLTdlNzA5YjliNjQ5YlwvZGUzeGNoNS05MDc1NzEyOC1lZTdhLTQ2YzgtYTBkYS05MTU4ZjhhOGYzYTAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-0rg0F7wZUI5cNBlngnL9B8U96nXYCHGV6Z82NeHu7g) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+
+ .imgA{
+    font-size: 30%;
+ }
+h3{
+    text-align: center;
+    font-size: 105%;
+    letter-spacing: 0.7rem;
+    font-style:inherit;
+    cursor: pointer;
+    margin-top: 3%;
+
+}
+button{
+    padding:10px 25px;
+    color:white;
+    font-size:100%;
+    border-radius: 30%;
+    background-color:black;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Teko', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    transition: all 0.2s ease;
+}
+
+h1{
+    text-align: center;
+    font-style: italic;
+    margin-top: -1%;
+    font-size: 200%;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+#Atag{
+    text-align: center;
+    font-size: 100%;
+}
+#q1{
+
+    height: 120vh;
+    
+}
+footer{
+    text-align: center;
+}
+#q2{
+    text-align: center;
+    height: auto;
+    margin-top: -30%;
+    cursor: pointer;
+}
+p2{
+    font-size: 140%;
+    box-shadow: gray 0px 0px 20px;
+    border-radius: 50px;
+    border: 1.5px  #808080;
+}
+
+.engq2{
+    font-size: 130%;
+    font-family: 'Comfortaa', cursive;
+    line-height: 140%;
+    
+}
+footer{
+    margin-top: 20%;
+    font-size: 80%;
+    font-style: italic;
+}
+
+
+
