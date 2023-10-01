@@ -26,6 +26,11 @@ body{
     text-shadow: #cbd5e1 2px 0.5px ;
     
 }
+#quotecontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .quote1eng{
     text-align: center;
     font-size:130%;
@@ -61,17 +66,18 @@ body{
 }
 
 #quotemeaning{
+    width : 60vw;
     text-align: center;
     font-size: 130%;
     font-style: italic;
-    backdrop-filter: blur(8px);
+    backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     border-width: 1px;
-    
     border :1px solid rgba(255,255,255,0.18);
-border-radius: 80px;
+border-radius: 40px;
    
 }
+
 #quotemeaning:hover{
     box-shadow: 0 8px 32px 0;
 
@@ -80,12 +86,9 @@ border-radius: 80px;
     font-size:100%;
     font-weight: bold;
     color: white;
-    
-
 }
 
 a{
-    
   margin-left: 46%;
   font-size:100%;
     
